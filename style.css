@@ -136,7 +136,7 @@ img {
     color: #E5E7EB;
     display: flex;
     justify-content: space-around;
-    align-items: baseline;
+    align-items: center;
     margin: 80px auto;
 }
 

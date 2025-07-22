@@ -3,8 +3,13 @@ body {
     margin: 0;
 }
 
-.header, .footer, .info, .action {
+.header, .info, .action {
     padding: 0 120px;
+}
+
+.footer {
+    padding: 30px;
+    text-align: center;
 }
 
 .header, .footer {
